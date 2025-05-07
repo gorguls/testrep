@@ -1,4 +1,1 @@
 Start
-BR 1 Step 1
-BR 1 Step 2
-BR 1 Step 3
